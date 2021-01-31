@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[!Twitter Follow(https://img.shields.io/twitter/follow/_iamsd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSridharan S&screen_name=_iamsd)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_iamsd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSridharan S&screen_name=_iamsd)
 
 - 🔭 I’m currently working towards a master's degree
 - 🌱 I’m currently learning ...
