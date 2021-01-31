@@ -2,7 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_iamsd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSridharan&screen_name=_iamsd)
 - 🔭 I’m currently working towards a master's degree
-- 🌱 I’m currently learning ...
 - 💬 Ask me about c, c++, Python or Data Science
 - 📫 How to reach me: Email here ->   sridharan2401@gmail.com
 - ⚡ Fun fact: The internet is 10,000+ days old. For the exact amount of days, you can visit [here](https://howoldistheinter.net/)
